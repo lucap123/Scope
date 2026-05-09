@@ -1,8 +1,10 @@
 # scope
-
+![Go](https://img.shields.io/badge/go-1.22-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://github.com/lucap123/Scope/actions/workflows/ci.yml/badge.svg)
 > One session. Every tool.
 
-Stop copy-pasting your auth token. **scope** is a lightweight CLI session manager for web hacking — set your headers, proxy, and base URL once, then run curl, ffuf, nuclei, sqlmap and more with everything auto-injected.
+Stop copy-pasting your auth token. **scope** is a lightweight CLI session manager for web hacking set your headers, proxy, and base URL once, then run curl, ffuf, nuclei, sqlmap and more with everything auto-injected.
 
 ```bash
 scope new bugcrowd-target --url https://api.target.com
@@ -110,7 +112,7 @@ Parses base URL, auth headers, and cookies. Skips Host, Content-Length, and othe
 ### Notes
 
 ```bash
-scope note "Admin panel at /manage — no auth check"
+scope note "Admin panel at /manage no auth check"
 scope note "v1 endpoint still active at /api/v1/auth"
 scope notes
 ```
@@ -129,7 +131,7 @@ Plain JSON files in `~/.scope/sessions/`. No cloud, no account, no telemetry.
   active
 ```
 
-Files are `chmod 600`. Tokens are stored in plaintext — this is a hacking tool, you control your own security.
+Files are `chmod 600`. Tokens are stored in plaintext this is a hacking tool, you control your own security.
 
 Override the storage directory with `SCOPE_HOME=/path/to/dir`.
 
