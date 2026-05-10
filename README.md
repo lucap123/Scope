@@ -4,9 +4,8 @@
 ![Go version](https://img.shields.io/badge/go-1.22-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-<p align="center">
-  <video src="scope_demo_v2.mp4" width="100%" controls autoplay loop muted></video>
-</p>
+![demo](demo.gif)
+
 
 > One session. Every tool.
 
