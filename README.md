@@ -3,6 +3,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/lucap123/Scope)
 ![Go version](https://img.shields.io/badge/go-1.22-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+<p align="center">
+  <video src="scope_demo_v2.mp4" width="100%" controls autoplay loop muted></video>
+</p>
+
 > One session. Every tool.
 
 Stop copy-pasting your auth token. **scope** is a lightweight CLI session manager for web hacking set your headers, proxy, and base URL once, then run curl, ffuf, nuclei, sqlmap and more with everything auto-injected.
