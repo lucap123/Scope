@@ -1,4 +1,4 @@
-module github.com/lucapnss/scope
+module github.com/lucap123/scope
 
 go 1.22
 

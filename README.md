@@ -29,7 +29,7 @@ scope nuclei -t exposures/
 ## Install
 
 ```bash
-go install github.com/lucapnss/scope@latest
+go install github.com/lucap123/scope@latest
 ```
 
 Or build from source:

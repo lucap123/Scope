@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/lucapnss/scope/pkg/session"
+	"github.com/lucap123/scope/pkg/session"
 	"github.com/spf13/cobra"
 )
 

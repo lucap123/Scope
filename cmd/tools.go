@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/lucapnss/scope/pkg/runner"
+	"github.com/lucap123/scope/pkg/runner"
 	"github.com/spf13/cobra"
 )
 

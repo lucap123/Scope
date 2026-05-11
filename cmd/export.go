@@ -6,8 +6,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/lucapnss/scope/pkg/runner"
-	"github.com/lucapnss/scope/pkg/session"
+	"github.com/lucap123/scope/pkg/runner"
+	"github.com/lucap123/scope/pkg/session"
 	"github.com/spf13/cobra"
 )
 

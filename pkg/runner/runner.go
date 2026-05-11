@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/lucapnss/scope/pkg/session"
+	"github.com/lucap123/scope/pkg/session"
 )
 
 // RunTool executes an external tool with session headers/proxy injected.
